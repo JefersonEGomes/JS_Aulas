@@ -1,4 +1,4 @@
-// Manipulando Strings e Números
+// Manipulando Arrays
 
 // Transformar uma cadeia de caracteres em elementos de um array
 
